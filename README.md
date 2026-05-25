@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Okafor Stanley</h1>
-<h3 align="center">soy una estudiante de computadora</h3>
+<h3 align="center">Iam computer science major</h3>
 
 - 📫 How to reach me **stanleyokafor08@gmail.com**
 
